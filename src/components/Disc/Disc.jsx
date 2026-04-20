@@ -3,7 +3,7 @@ import discImg from '../../images/disc.png';
 
 const Disc = () => {
     return (
-        <div class="record-wrapper">
+        <div className="record-wrapper">
             <img src={discImg} />
         </div>
     )

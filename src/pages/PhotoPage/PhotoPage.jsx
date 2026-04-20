@@ -49,7 +49,7 @@ const PhotoPage = () => {
             <div className="container">
                 <motion.div className="photos" variants={containerVariants} initial="hidden" animate="visible">
                     <motion.h2 variants={itemVariants}>ՄԵՆՔ</motion.h2>
-                    <audio ref={audioRef} autoplay>
+                    <audio ref={audioRef} autoPlay>
                         <source src={music} type="audio/mp3"/>
                     </audio>
 

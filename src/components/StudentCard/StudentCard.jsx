@@ -20,10 +20,10 @@ const photoVariants = {
 
 const StudentCard = ({ imgSrc, title }) => {
     return (
-        <div className="studentCard" initial="hidden" whileInView="visible" viewport={{ once: false, amount: 0.3 }} variants={photoVariants} style={{ marginBottom: '50px', textAlign: 'center' }}>
+        <motion.div className="studentCard" initial="hidden" whileInView="visible" viewport={{ once: false, amount: 0.3 }} variants={photoVariants} style={{ marginBottom: '50px', textAlign: 'center' }}>
             <img src={imgSrc} />
             <h5>{title}</h5>
-        </div>
+        </motion.div>
     )
 }
 
