@@ -12,13 +12,13 @@ const LetterPage = () => {
         <div className="letterPage">
             <div className="container">
                 <div className="letter">
-                    <img src={img1} />
+                    <img src={img1} alt="img" />
 
                     <div className="imgBlockSchool">
                         <div className="imgBlock">
-                            <img src={img2} alt="" />
-                            <img src={img3} alt="" />
-                            <img className="small-photo" src={img4} alt="" />
+                            <img src={img2} alt="img" />
+                            <img src={img3} alt="img" />
+                            <img className="small-photo" src={img4} alt="img" />
                             <Disc />
                         </div>
                     </div>

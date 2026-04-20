@@ -4,7 +4,6 @@ import TeacherCard from '../../components/TeacherCard/TeacherCard';
 import StudentCard from '../../components/StudentCard/StudentCard';
 import music from '../../audio/arame.mp3';
 import { motion } from 'framer-motion';
-import disc from '../../images/disc.png';
 
 const containerVariants = {
     hidden: { opacity: 0 },

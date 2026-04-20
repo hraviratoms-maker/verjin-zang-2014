@@ -7,7 +7,7 @@ const DetailsPage = () => {
         <div className="detailsPag">
             <div className="container">
                 <div className="details">
-                    <img src={background} />
+                    <img src={background} alt='img' />
 
                     <Calendar />
                 </div>
