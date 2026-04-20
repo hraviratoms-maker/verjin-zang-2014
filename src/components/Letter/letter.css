@@ -1,0 +1,24 @@
+.letter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .imgBlock {
+        position: relative;
+
+        img {
+            max-width: 100%;
+        }
+    }
+
+    h4 {
+        font-size: 26px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .letter h4 {
+        font-size: 5vw;
+    }
+}

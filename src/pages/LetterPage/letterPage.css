@@ -1,0 +1,67 @@
+.letterPage  .letter > img {
+    max-width: 100%;
+}
+
+.imgBlockSchool .imgBlock {
+    display: grid;
+    gap: 15px;
+    padding: 20px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    grid-template-areas:
+        "big-group   big-group   big-group   big-group"
+        "big-group   big-group   big-group   men-group"
+        "text-1      text-2      blank1      men-group"
+        "women-group women-group record      record";
+    overflow: hidden;    
+    
+}
+
+.small-photo {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.btns {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    a {
+        display: block;
+        padding: 15px 50px;
+        background: #000;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 2px;
+    }
+}
+
+.imgBlockSchool img {
+    width: 600px;
+}
+
+.btnsMenu {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 50px;
+        gap: 10px;
+        background: #000;
+        text-decoration: none;
+        color: #fff;
+        font-size: 20px;
+        font-weight: bold;
+        transition: all .3s;
+
+        &:hover {
+            background: transparent;
+            color: #000;
+            border: 2px solid #000;
+        }
+    }
+}

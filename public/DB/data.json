@@ -1,0 +1,82 @@
+{
+    "employees": [
+        {
+            "id": "1",
+            "surname": "Դասղեկ՝ Լուսյա Մալխասյան",
+            "image": "https://lh3.googleusercontent.com/kMe_nq8Bh8nYKHFZNqlIIv9_QuaFdORRCWcF8avRn8mdKC9mMulkVlGdvA_gZh21gttubLZ_yFkGpssLW796wLnmp5XIEd12sx8anmpHBQ=s2500-rw",
+            "status": "teacher"
+        },
+        {
+            "id": "2",
+            "surname": "Տնօրեն՝ Արփինե Մելիքսեթյան",
+            "image":"https://lh3.googleusercontent.com/uy3Ruxn1Xs5YGEH7DBtYOpF_x13MWz8Nz841LFnSjagc0jox0BsB5L4LtUxYMmghYmkuO990hMpYO8yBdwE_DABo88W4xchWljS35Lin_A=s2500-rw",
+            "status": "teacher"
+        },
+        {
+            "id": "3",
+            "surname": "Սահանուշ Հովհաննիսյան",
+            "image": "https://lh3.googleusercontent.com/UlCCpo-gaxAuBwvqB8tdFGT3tGjCOSBMJk0C-726PWiRbWH3nCwkSQHC-2giTnr4w1NJxr_skl-lbFwkMdqjqCH0vPM9TuuiFEqLjaNw=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "4",
+            "surname": "Արսեն Հակոբյան",
+            "image": "https://lh3.googleusercontent.com/N8DBOiHKCZWStLQEF4kuTayHRc3J0-aF1a4QBRVhzIeSv_I9QraNIYxDo3WHM24J03GT_-xaDcuiumbaeFancdkKqypM1XilFGdCIr1F=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "5",
+            "surname": "Ալիսա Պարսամյան",
+            "image": "https://lh3.googleusercontent.com/QJzSa4yusKFwA5gt7ENuh68K8OqjYv1xCcjN_tBro4Tg_EfyStHzeSmp5xAp1iDAOHjOdVFvcG-KdT9Ia0tlZmjBYJOx0lGfVuePlZy5NA=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "6",
+            "surname": "Գոհար Ղազարյան",
+            "image": "https://lh3.googleusercontent.com/ttwVGjwg0QKJ-eR2OxkAR2gAwO5n0LEGJ5Z3nbwqTUKx0sdfSGyEa7UaWzEgx8LyaFMH7lXWwO4PeG9pUoPhBeY3Ft-qztXf5tj_uzc7gg=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "7",
+            "surname": "Վարդգես Հակոբյան",
+            "image": "https://lh3.googleusercontent.com/GjzMmD_453SiL2br-Co1fx4FGR7ZOjgPXvNsyolHVXfIqOq1coREWvtzmJOI90G34iQHns5CwcFXR5DgWC_i3A3UkvUMoKg60cwN7eDd=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "8",
+            "surname": "Միլենա Խաչատրյան",
+            "image": "https://lh3.googleusercontent.com/773nAORCC_ElCF6NA2ROCLEpP8JxLH-VCdnuyztmVrYdRJMZAEZN1RxiiAZu5Vl0rB7Xsm5cze3aesG5gwuOHd9bKNeRrZaGBRHaA4PXPyE=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "9",
+            "surname": "Վահե Գասպարյան",
+            "image": "https://lh3.googleusercontent.com/0fB8uSHoi-Lh-uFln4nT6F3fQBATCBccwgzKwPmRQ41G3VR1njWJoRQTraOT3gd9upPWyul5AmuaCJbG3SdAnpYGK16bjxl_sWbq9VmmvA=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "10",
+            "surname": "Գայանե Մկրտչյան",
+            "image": "https://lh3.googleusercontent.com/_SZG_P3LUfpL6E-C0UzOqhEOyQjxxNawpcpeSu2qezxwHUNHZijrPgRHK0iC5H_0jSzUStwTlGC9n-mzMCgpdKdx2Lpu82yMZ2UWKm0eMDM=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "11",
+            "surname": "Արամ Ավանեսյան",
+            "image": "https://lh3.googleusercontent.com/90i4DwfAsIW9st6uMU52NDeJi8RGJODZpzgeiLJOD-lmiZo49cevgNVvHZAxV2NyQWjI5a503u0W9WJ7xRDzjjS4V2n7u5K1PGqBrvLsog=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "12",
+            "surname": "Էմին Վահանյան",
+            "image": "https://lh3.googleusercontent.com/5c-u7HEdmmxR1oiC3kK9_Of0je15A1bkByNElF-dGGZHRgFwVOoAhNVsATwi9rLj4IwE5ELuxvsgLVDq_g9Jp9M6_NAgybsFZIVpO8mSLA=s2500-rw",
+            "status": "student"
+        },
+        {
+            "id": "13",
+            "surname": "Մանվել Մարգարյան",
+            "image": "https://lh3.googleusercontent.com/dOxjWkyULLrqUbqjkGa7MIgELEbWtm7wSFXCGlliPj87DCAqlKluW06Q76ReMos1ZnnXtXaVZ3Cr07H54IFtNqOocywF2F7sFGBzDRrj1NI=s2500-rw",
+            "status": "student"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+.studentCard {
+    width: 250px;
+
+    img {
+        width: 250px;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 595px) {
+    .studentCard {
+        width: 140px;
+
+        img {
+            width: 140px;
+        }
+    }
+}

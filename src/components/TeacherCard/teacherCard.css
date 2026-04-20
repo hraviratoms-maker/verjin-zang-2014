@@ -1,0 +1,11 @@
+.cardTeacher {
+    width: 300px;
+
+    img {
+        width: 300px;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+}
